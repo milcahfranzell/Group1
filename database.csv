@@ -1,173 +1,173 @@
-region,code,place,latitude,longitude,detail,rating
-Metro Manila,NCR,Intramuros,14.5909588,120.9746537,"The historic walled city in Manila, known for its Spanish-era landmarks, including Fort Santiago, Manila Cathedral, and San Agustin Church.",9667.9
-Metro Manila,NCR,Rizal Park,14.5806732,120.9753974,"A significant historical urban park in Manila, featuring the Rizal Monument, a tribute to national hero José Rizal.",127521.0
-Metro Manila,NCR,The National Museum of the Philippines,14.5869301,120.9812506,"Houses the country's national treasures, showcasing Filipino art, archaeology, and natural history.",63727.3
-Metro Manila,NCR,Manila Ocean Park,14.5793627,120.9724759,"A marine-themed park with an oceanarium, interactive animal shows, and various marine life exhibits.",66074.4
-Metro Manila,NCR,Quezon Memorial Circle,14.6514468,121.0492878,"A national park and shrine in Quezon City dedicated to President Manuel L. Quezon, with a towering monument and museum.",62198.4
-Metro Manila,NCR,Art in Island Museum,14.6224597,121.0574087,A unique interactive art museum in Quezon City where visitors can pose with 3D art installations.,11227.5
-Metro Manila,NCR,SM Mall of Asia,14.5352089,120.9815985,"One of the largest shopping malls in the Philippines, located in Pasay City, offering extensive retail, dining, and entertainment options.",259353.0
-Metro Manila,NCR,The Mind Museum,14.5520716,121.0455361,"A science museum in Taguig City with interactive exhibits on various scientific disciplines, including physics, biology, and astronomy.",11382.8
-Metro Manila,NCR,St. Joseph Parish Church and the Bamboo Organ,14.4810353,120.9813904,"Located in Las Piñas, famous for housing the world's only bamboo organ, a national cultural treasure.",6241.6
-Metro Manila,NCR,Ayala Museum,14.5535834,121.0232447,"An art and history museum in Makati, featuring exhibits on Filipino culture, history, and visual arts.",6219.2
-Cordillera Administrative Region,CAR,Baguio Cathedral,16.4129010,120.5984970,"A Neo-Gothic cathedral known for its twin spires and stained glass windows, a popular site for tourists and worshippers.",10170.6
-Cordillera Administrative Region,CAR,Burnham Park,16.4080101,120.5959849,"A central park in Baguio featuring a man-made lake, gardens, and recreation areas.",35823.3
-Cordillera Administrative Region,CAR,Wright Park,16.4151386,120.6185897,"Known for its “Pool of Pines” and horseback riding activities, a favorite among families and tourists.",10646.8
-Cordillera Administrative Region,CAR,Mansion,16.4123556,120.6214518,"The official summer residence of the President of the Philippines, famous for its ornate gate and well-manicured gardens.",6432.8
-Cordillera Administrative Region,CAR,Colors of Stobosa,16.4338458,120.5974401,"A vibrant mural on hillside homes in La Trinidad, transforming the area into a colorful attraction.",1290.0
-Cordillera Administrative Region,CAR,Sugong Cave,14.5962000,120.3928000,"A popular cave in Sagada used for burial, known for its coffins stacked at the entrance.",248.4
-Cordillera Administrative Region,CAR,Sumaguing Cave,17.0667416,120.9029633,Renowned for its impressive rock formations and challenging spelunking routes in Sagada.,2683.7
-Cordillera Administrative Region,CAR,Bontoc Museum,17.0896820,120.9756636,Exhibits the culture and history of the indigenous peoples of the Cordillera region.,677.6
-Cordillera Administrative Region,CAR,Banaue Rice Terraces,16.9135600,121.0618400,"Famous UNESCO World Heritage site, these 2,000-year-old terraces are a marvel of ancient engineering.",5681.0
-Cordillera Administrative Region,CAR,Philippine War Memorial Shrine,16.7793579,121.0813701,"Honors Filipino soldiers who fought during World War II, located in Kiangan, Ifugao.",141.0
-Cordillera Administrative Region,CAR,Apo Whang Od,17.2761100,121.1625000,The oldest traditional Kalinga tattoo artist (mambabatok) known for her intricate designs and cultural significance.,779.1
-Cordillera Administrative Region,CAR,Kaparkan Falls,17.7670100,120.9280000,"Also known as Mulawin Falls, features terraced cascades in Abra, a hidden gem in the region.",366.6
-Cordillera Administrative Region,CAR,Mines View Park,16.4197006,120.6274987,Offers a panoramic view of Benguet’s gold and copper mines and the surrounding mountains.,36859.2
-Cordillera Administrative Region,CAR,Mt. Pulag,16.5977263,120.8987919,"The third highest mountain in the Philippines, known for its “sea of clouds” and diverse flora and fauna.",1689.6
-Cordillera Administrative Region,CAR,Lussok Crystal Cave,18.3312102,121.3729788,"Located in Apayao, famous for its crystal-clear stalactites and stalagmites.",211.2
-Ilocos Region,Region 1,Paoay Church,18.0614917,120.5215906,A UNESCO World Heritage site known for its distinct Earthquake Baroque architecture.,5226.4
-Ilocos Region,Region 1,Malacañang of the North,18.1274031,120.5399925,A presidential museum in Ilocos Norte showcasing Marcos-era memorabilia.,2468.2
-Ilocos Region,Region 1,La Paz Sand Dunes,18.2269607,120.5502810,Offers thrilling 4x4 rides and sandboarding adventures in the desert landscape of Ilocos Norte.,2538.0
-Ilocos Region,Region 1,Vigan City,17.5755487,120.3872632,A UNESCO World Heritage site famous for its well-preserved Spanish colonial and Asian architecture.,5060.0
-Ilocos Region,Region 1,Calle Crisologo,17.5680510,120.3877225,"The historic cobblestone street in Vigan lined with Spanish-era houses, shops, and cafes.",9720.0
-Ilocos Region,Region 1,Bantay Bell Tower,17.5821518,120.3915997,"A historic watchtower in Ilocos Sur, offering views of the city and the nearby church.",1544.4
-Ilocos Region,Region 1,Padre Burgos House,17.5747200,120.3869400,"A museum in Vigan dedicated to the life of Father José Burgos, a Filipino nationalist.",331.1
-Ilocos Region,Region 1,Bangui Windmills,18.5285049,120.7036038,"Iconic wind turbines along the Bangui Bay in Ilocos Norte, providing renewable energy and scenic views.",3783.5
-Ilocos Region,Region 1,Hundred Islands National Park,16.1553857,119.9792201,"A protected area with 124 islands, known for its beautiful beaches and water activities.",5299.2
-Ilocos Region,Region 1,"San Juan, La Union",16.6699328,120.3385507,Famous for its surfing spots and vibrant beach culture.,1422.0
-Ilocos Region,Region 1,Baluarte Watch Tower,16.8568137,120.3729072,"A historic watchtower in Luna, La Union, offering scenic views of the coastline and the West Philippine Sea.",860.0
-Cagayan Valley,Region 2,Ruins of Songsong,20.3569440,121.9536110,"The remnants of a village in Batanes destroyed by a tidal wave in the 1950s, known for its picturesque and haunting beauty.",220.0
-Cagayan Valley,Region 2,Honesty Coffee Shop,20.3652885,121.9150278,"A unique unmanned store in Batanes where customers pay for items on an honor system, symbolizing the trustworthiness of the locals.",531.1
-Cagayan Valley,Region 2,Sabtang Island,20.3082637,121.8647857,"Known for its well-preserved Ivatan stone houses, stunning landscapes, and beautiful beaches in Batanes.",960.0
-Cagayan Valley,Region 2,Callao Cave,17.7068550,121.8181185,"Located in Cagayan, famous for its seven chambers and natural cathedral-like formation with a chapel inside.",1606.0
-Cagayan Valley,Region 2,Cagayan River,16.9588335,121.7793945,"The longest and largest river in the Philippines, offering activities such as whitewater rafting and fishing.",270.0
-Cagayan Valley,Region 2,Palaui Island,18.5412545,122.1370988,"A protected island in Cagayan known for its pristine beaches, rich biodiversity, and the Cape Engaño Lighthouse.",1071.6
-Cagayan Valley,Region 2,Binuangan's Sea of Clouds,16.1744540,121.2673533,Offers breathtaking views of rolling clouds covering the landscape in the Quirino province.,315.0
-Cagayan Valley,Region 2,Lower Magat Eco-Tourism Park,16.6447668,121.3864421,"A recreational area in Nueva Vizcaya featuring camping, fishing, and nature trails.",860.0
-Cagayan Valley,Region 2,Quirino Watersports Complex,16.5204613,121.5164201,A facility in Quirino province offering various water sports activities like wakeboarding and kayaking.,325.6
-Cagayan Valley,Region 2,Governor's Rapids,16.3683213,121.7253721,"Known for its majestic rock formations, crystal-clear waters, and boating adventures in Quirino province.",495.0
-Cagayan Valley,Region 2,Aglipay Caves and Composite,16.4791239,121.6175704,"A series of 38 caves in Quirino, with eight developed for caving and spelunking enthusiasts.",245.1
-Cagayan Valley,Region 2,Aguinaldo Shrine and the Giant Butaka,17.1287534,121.8668040,"Located in Palanan, Isabela, this site commemorates Emilio Aguinaldo's capture and features a giant wooden chair (butaka).",2709.0
-Central Luzon,Region 3,Museo de Baler,15.7601092,121.5617660,"A museum in Aurora showcasing the history and culture of Baler, including the Siege of Baler.",1444.8
-Central Luzon,Region 3,Quezon Memorial Park,15.7599210,121.5617407,"A park in Baler, Aurora, dedicated to President Manuel L. Quezon, featuring a statue and museum.",343.2
-Central Luzon,Region 3,Ermita Hill,15.7546025,121.5805804,Offers panoramic views of Baler Bay and is historically significant as a refuge during a tsunami in the 1700s.,1284.8
-Central Luzon,Region 3,Las Casas Filipinas De Acuzar,14.5991097,120.3896645,"An open-air museum and heritage park in Bataan, featuring restored Spanish-Filipino houses and buildings.",7912.0
-Central Luzon,Region 3,Mt. Samat Shrine,14.6064588,120.5094670,A national shrine in Bataan commemorating the bravery of Filipino and American soldiers during World War II.,2884.5
-Central Luzon,Region 3,Mt. Arayat,15.2012911,120.7431149,"A dormant volcano in Pampanga, popular for hiking and known for its folklore associated with a mythical fairy.",841.8
-Central Luzon,Region 3,Mt. Pinatubo,15.1445564,120.3490617,"Famous for its cataclysmic 1991 eruption, now a popular trekking destination with a stunning crater lake.",1743.7
-Central Luzon,Region 3,Anawangin Cove,14.8810845,120.0696595,"Known for its unique landscape with pine trees and volcanic ash sand, ideal for camping and beach activities.",2691.0
-Central Luzon,Region 3,Nagsasa Cove,14.8115064,120.0941437,"Similar to Anawangin, this cove offers serene beaches, waterfalls, and camping sites, formed by the 1991 Mt. Pinatubo eruption.",1821.6
-Central Luzon,Region 3,Potipot Island,15.6780230,119.9217949,"A small, picturesque island off the coast of Zambales, known for its white sand beaches and clear waters.",972.0
-Central Luzon,Region 3,Capones Island,14.9140021,120.0198341,"Features a historic Spanish-era lighthouse and pristine beaches, ideal for day trips and snorkeling.",644.0
-CALABARZON,Region 4-A,Taal Volcano,14.0106736,120.9985863,"Located in Batangas, it is one of the world's smallest active volcanoes, known for its picturesque crater lake and surrounding views.",3629.4
-CALABARZON,Region 4-A,Fortune Island,14.0567026,120.4917260,"A private island off the coast of Nasugbu, Batangas, known for its Greek-inspired ruins, clear waters, and cliff diving spots.",1909.2
-CALABARZON,Region 4-A,Anilao,13.7616776,120.9284025,"A popular diving destination in Batangas, famous for its diverse marine life and excellent dive sites.",396.0
-CALABARZON,Region 4-A,Pagsanjan Falls,14.2625628,121.4999861,"Located in Laguna, this iconic waterfall is best experienced through a thrilling canoe ride upstream.",1512.0
-CALABARZON,Region 4-A,Enchanted Kingdom,14.2808875,121.0968886,"The premier theme park in the Philippines, located in Santa Rosa, Laguna, offering various rides and attractions for all ages.",15914.8
-CALABARZON,Region 4-A,Pansol,14.1797409,121.1810881,"Known for its numerous hot spring resorts, this area in Calamba, Laguna, is a favorite weekend getaway for relaxation.",288.1
-CALABARZON,Region 4-A,Daranak Falls,14.5445908,121.3113469,"A scenic waterfall located in Tanay, Rizal, surrounded by lush greenery, ideal for swimming and picnics.",2272.2
-CALABARZON,Region 4-A,Angono-Binangonan Petroglyphs,14.5329971,121.1865228,"The oldest known artwork in the Philippines, these ancient rock carvings in Rizal date back to 3000 BC.",321.2
-CALABARZON,Region 4-A,Mt. Pamitinan,14.7310193,121.1914237,"A popular hiking destination in Rizal, known for its limestone formations and panoramic views.",460.6
-,Region 4-A,People's Park in the Sky,14.1421885,121.0218620,"An unfinished presidential rest house turned park in Tagaytay, offering stunning views of Taal Lake and the surrounding area.",18868.4
-CALABARZON,Region 4-A,Sky Ranch,14.0955301,120.9377976,"An amusement park in Tagaytay featuring a Ferris wheel, rides, and scenic views of Taal Volcano.",11151.0
-CALABARZON,Region 4-A,Tanay Sea of Clouds,14.5799026,121.3312453,"A viewpoint in Tanay, Rizal, where visitors can witness a breathtaking ""sea of clouds"" phenomenon at sunrise.",681.5
-MIMAROPA,Region 4-B,Puerto Princesa Subterranean River National Park,10.1928446,118.9265936,"A UNESCO World Heritage site in Palawan, known for its underground river and stunning cave formations.",8953.5
-MIMAROPA,Region 4-B,Tubbataha Reef Marine Park,8.8516111,119.9344061,"A UNESCO World Heritage site, this marine park in the Sulu Sea is renowned for its extraordinary biodiversity and diving spots.",374.4
-MIMAROPA,Region 4-B,Calauit Safari Park,12.2795271,119.8848727,"Located on Calauit Island in Palawan, this park features African wildlife and local species in a safari-like environment.",718.1
-MIMAROPA,Region 4-B,Coron Reef,11.9984407,120.2015909,"Known for its spectacular diving sites, including WWII shipwrecks and vibrant coral reefs.",798.7
-MIMAROPA,Region 4-B,Poctoy White Beach,13.3264434,122.1012056,"A beautiful white sand beach in Torrijos, Marinduque, popular for its clear waters and serene atmosphere.",412.8
-MIMAROPA,Region 4-B,Tabon Caves,9.2798393,117.9814514,"A series of caves in Palawan where the Tabon Man, one of the oldest human remains in the Philippines, was discovered.",211.6
-MIMAROPA,Region 4-B,Looc Fish Sanctuary,12.2463737,121.9826222,"Located in Looc Bay, Occidental Mindoro, this sanctuary offers snorkeling opportunities to see diverse marine life.",138.0
-MIMAROPA,Region 4-B,Puerto Galera,13.5017104,120.9543353,"A popular tourist destination in Mindoro, known for its white sand beaches, diving spots, and vibrant nightlife.",6274.4
-Bicol Region,Region 5,Mayon Volcano National Park,13.2558072,123.6858148,"Famous for its perfect cone shape, this active volcano in Albay is a prominent natural landmark and adventure spot.",1123.2
-Bicol Region,Region 5,Cagsawa Ruins,13.1660559,123.7010503,"The remnants of an 18th-century church buried by the 1814 eruption of Mayon Volcano, now a historical park in Daraga, Albay.",6006.0
-Bicol Region,Region 5,Shrine of the Black Nazarene,14.3317892,122.4940450,"Located in Quiapo, Manila, this church is home to the revered Black Nazarene statue and is a major pilgrimage site.",8967.6
-Bicol Region,Region 5,Calaguas Islands,14.4690392,122.9450671,A group of islands in Camarines Norte known for their pristine white sand beaches and crystal-clear waters.,1118.4
-Bicol Region,Region 5,Peñafrancia Basilica,13.6320445,123.2000160,"A major religious site in Naga City, Camarines Sur, dedicated to Our Lady of Peñafrancia, the patroness of Bicol.",2568.0
-Bicol Region,Region 5,Caramoan Islands,13.8114251,123.8758702,"A group of islands in Camarines Sur, famous for their stunning landscapes, limestone cliffs, and being a location for the TV show ""Survivor.""",926.4
-Bicol Region,Region 5,Donsol Whale Shark Interaction Center,12.9231544,123.5780039,"A major eco-tourism destination in Sorsogon, known for the opportunity to swim with whale sharks.",853.6
-Western Visayas,Region 6,Boracay,11.9693065,121.9227006,"One of the world's top beach destinations, located in Aklan, famous for its white sand beaches, water sports, and vibrant nightlife.",11176.6
-Western Visayas,Region 6,Willy's Rock,11.9681296,121.9185758,"An iconic rock formation with a statue of the Virgin Mary, located on Boracay's White Beach.",5071.5
-Western Visayas,Region 6,Boracay Oceanarium,11.9580017,121.9306971,"Offers a marine experience with a variety of sea creatures, located on Boracay Island.",447.2
-Western Visayas,Region 6,Crocodile Island,11.9499390,121.9514163,"Named for its shape, this island near Boracay is popular for snorkeling and diving.",250.8
-Western Visayas,Region 6,Crystal Cove,11.9421690,121.9569887,"A small island near Boracay, known for its stunning coves, crystal-clear waters, and scenic hiking trails.",954.8
-Western Visayas,Region 6,Magic Island,9.9340945,123.3769952,"Located near Boracay, this island is popular for cliff diving and its beautiful seascapes.",441.0
-Western Visayas,Region 6,Negros Museum,10.6751622,122.9503269,"Located in Bacolod City, Negros Occidental, this museum showcases the history, culture, and art of the Negros Island region.",1478.4
-Western Visayas,Region 6,The Ruins,10.7092082,122.9826571,"The remains of a grand mansion in Talisay City, Negros Occidental, often referred to as the ""Taj Mahal of Negros"" for its romantic history.",12015.0
-Western Visayas,Region 6,San Sebastian Cathedral,10.6703280,122.9471513,"An iconic cathedral in Bacolod City, known for its Gothic-inspired architecture and religious significance.",1329.4
-Western Visayas,Region 6,Miagao Church,10.6420667,122.2353868,"A UNESCO World Heritage site in Iloilo, famous for its unique Baroque-Romanesque architecture and intricate facade.",2509.8
-Western Visayas,Region 6,Alubihod Beaches,10.5336746,122.5169740,"Located in Guimaras, these beaches are known for their white sand, clear waters, and tranquil environment, perfect for relaxation.",431.2
-Central Visayas,Region 7,Chocolate Hills,9.7982587,124.1684323,"Iconic geological formations in Bohol, consisting of over a thousand hills that turn brown in the dry season, resembling chocolate mounds.",7083.0
-Central Visayas,Region 7,Loboc River,9.6463322,124.0249567,"Famous for its river cruises, where visitors can enjoy a meal on a floating restaurant while being serenaded by local musicians.",4017.2
-Central Visayas,Region 7,Philippine Tarsier Sanctuary,9.6878643,123.9522353,"Located in Bohol, this sanctuary is dedicated to the conservation of the Philippine tarsier, one of the world's smallest primates.",3996.0
-Central Visayas,Region 7,Panglao Islands,9.5987262,123.8028697,"Known for their white sandy beaches, crystal-clear waters, and vibrant marine life, making it a popular destination for diving and snorkeling.",3040.9
-Central Visayas,Region 7,Cabilao Islands,9.8812180,123.7726473,"A small island off the coast of Bohol, known for its excellent diving spots and rich marine biodiversity.",238.5
-Central Visayas,Region 7,Balicasag Islands,9.5172010,123.6843927,"Another top diving destination in Bohol, famous for its coral reefs and diverse marine life.",1001.1
-Central Visayas,Region 7,Magellan's Cross,10.2935550,123.9019310,"A historical landmark in Cebu City, said to contain the remnants of the original cross planted by Ferdinand Magellan upon his arrival in the Philippines.",15538.2
-Central Visayas,Region 7,Santo Niño Basilica,10.2943995,123.9018683,"Also known as Basilica Minore del Santo Niño, this basilica in Cebu City is one of the oldest and most revered Catholic churches in the Philippines.",1959.6
-Central Visayas,Region 7,Oslob,9.5204466,123.4335205,"Famous for whale shark watching, where visitors can swim alongside these gentle giants.",1812.4
-Central Visayas,Region 7,Cebu Safari and Adventure Park,10.5888394,123.9610649,"A large wildlife and adventure park in Cebu, featuring a variety of animal species and outdoor activities.",670.5
-Central Visayas,Region 7,Dumaguete Cathedral,9.3062397,123.3065834,"Also known as the Cathedral of St. Catherine of Alexandria, this church in Dumaguete City is notable for its historical and cultural significance.",1795.4
-Central Visayas,Region 7,Apo Island,9.0778663,123.2715177,"A marine sanctuary near Dumaguete, known for its rich marine biodiversity and excellent diving and snorkeling sites.",2143.6
-Central Visayas,Region 7,Cambugahay Falls,9.1400762,123.6267445,"A multi-tiered waterfall in Siquijor, popular for its clear turquoise waters and rope swings.",396.0
-Central Visayas,Region 7,Cantabon Cave,9.1877428,123.5639922,"An extensive cave system in Siquijor, offering spelunking adventures through its narrow passages and underground streams.",255.2
-Central Visayas,Region 7,Tulapos Marine Sanctuary,9.2848652,123.6416681,"Located in Siquijor, this marine sanctuary is known for its healthy coral reefs and diverse marine life, ideal for snorkeling.",563.2
-Central Visayas,Region 7,Cabagnaw Cave Pool,9.7334851,124.5702909,"A unique natural swimming pool inside a cave in Siquijor, known for its clear blue waters.",5282.8
-Central Visayas,Region 7,Bantayan Island,11.2185608,123.7285283,"A beautiful island in Cebu, known for its white sandy beaches, crystal-clear waters, and laid-back atmosphere.",550.2
-Central Visayas,Region 7,Colon Street,10.2959671,123.8976668,"The oldest street in the Philippines, located in Cebu City, known for its historical significance and bustling commercial activities.",155.1
-Eastern Visayas,Region 8,Homonhon Island,10.7557600,125.6899624,"The site where Ferdinand Magellan first landed in the Philippines, located in Eastern Samar, rich in historical significance.",216.2
-Eastern Visayas,Region 8,Ando Islands,11.6414624,125.4824633,"Part of the Guiuan Islands in Eastern Samar, known for their pristine beaches and diving spots.",130.5
-Eastern Visayas,Region 8,Divinubo Islands,11.5971032,125.5008332,"Located off the coast of Borongan, Eastern Samar, known for its clear waters, white sandy beaches, and vibrant marine life.",4099.5
-Eastern Visayas,Region 8,San Juanico Bridge,11.3025760,124.9718908,"The longest bridge in the Philippines, connecting the islands of Samar and Leyte, known for its picturesque views.",2580.3
-Eastern Visayas,Region 8,Kalanggaman Island,11.1144289,124.2506115,"A pristine island in Leyte known for its long sandbars, clear waters, and excellent diving spots.",460.6
-Eastern Visayas,Region 8,Sambawan Island,11.7658516,124.2636759,"A stunning island in Biliran, known for its scenic views, white sand beaches, and clear blue waters.",92.0
-Eastern Visayas,Region 8,Cambaro Cave,10.0835507,124.9470849,"Located in Almeria, Biliran, this cave is known for its impressive stalactites and stalagmites.",153.0
-Eastern Visayas,Region 8,Sila Island Pink Beach,12.3595370,124.0328237,"Known for its unique pink sand, this beach in Northern Samar offers a serene and picturesque environment.",1012.8
-Eastern Visayas,Region 8,Sohoton Caves,11.3577054,125.1672997,"A natural wonder in Basey, Samar, featuring impressive cave formations, underground rivers, and natural rock arches.",312.8
-Eastern Visayas,Region 8,Natural Bridge,11.3648129,125.1633367,"Also known as the Sohoton Natural Bridge, located in Samar, this natural limestone bridge offers breathtaking views of the surrounding area.",985.5
-Zamboanga Peninsula,Region 9,The Rizal Shrine Park,8.6906595,123.4168721,"Located in Dapitan, Zamboanga del Norte, this park commemorates the national hero Dr. Jose Rizal's exile.",101.2
-Zamboanga Peninsula,Region 9,P'gsalabuk Circle,8.5249180,123.3284840,"A cultural landmark in Dipolog City, Zamboanga del Norte, showcasing the region's diverse cultural heritage.",1302.4
-Zamboanga Peninsula,Region 9,Gloria's Fantasyland,8.6477271,123.4177323,"An amusement park in Dapitan City, offering various rides and entertainment options for all ages.",166.5
-Zamboanga Peninsula,Region 9,Pulacan Falls,7.9156507,123.4889097,"A picturesque waterfall located in Labangan, Zamboanga del Sur, popular for its scenic beauty and tranquil environment.",283.8
-Zamboanga Peninsula,Region 9,Rotunda Obelisk,8.2311697,124.2346478,"A historic landmark in Malaybalay City, Bukidnon, symbolizing the city's rich cultural heritage.",2258.6
-Northern Mindanao,Region 10,Dahilayan Mount Capistrano,8.0278185,125.1667120,"Known for its breathtaking views and outdoor activities, including zip-lining and ATV rides, located in Manolo Fortich, Bukidnon.",248.4
-Northern Mindanao,Region 10,Forest Park Resort,8.2042195,124.8570236,"An adventure and nature park in Dahilayan, Bukidnon, offering various activities such as zip-lining, ATV rides, and horseback riding.",1472.0
-Northern Mindanao,Region 10,Abbey of the Transfiguration,8.1150547,125.1361079,"A Benedictine monastery in Malaybalay City, Bukidnon, known for its distinctive pyramid-shaped church and serene surroundings.",296.1
-Northern Mindanao,Region 10,Mt. Timpoong and Mt. Hibok-Hibok Range Natural Monument,9.1994295,124.6759878,"Located in Camiguin, these mountains offer challenging hikes and stunning views.",225.6
-Northern Mindanao,Region 10,Sunken Cemetery,9.2068031,124.6327702,"An eerie yet fascinating underwater cemetery in Camiguin, marked by a large cross visible above the water.",3086.6
-Northern Mindanao,Region 10,Cagayan de Oro River Rapids,8.3054066,124.5965685,"Famous for whitewater rafting adventures, this river in Cagayan de Oro offers thrilling experiences for adventure seekers.",2568.0
-Northern Mindanao,Region 10,Gardens of Malasag Mountain,8.4699669,124.7003524,"An eco-tourism village in Cagayan de Oro, featuring botanical gardens, traditional houses, and cultural exhibits.",1711.2
-Northern Mindanao,Region 10,Maria Cristina Falls,8.1831064,124.1950609,"A majestic waterfall in Iligan City, Lanao del Norte, often referred to as the ""twin falls"" and a major source of hydroelectric power.",18436.8
-Northern Mindanao,Region 10,Balinga Wetland Park,,,"A wetland park in Lanao del Norte, known for its rich biodiversity and bird-watching opportunities.",761.4
-Northern Mindanao,Region 10,Dolphin Island,8.2907733,123.8709784,"Located off the coast of Misamis Occidental, this island is known for dolphin watching and marine conservation efforts.",1168.4
-Davao Region,Region 11,People's Park,7.0709290,125.6087926,"A popular public park in Davao City, known for its sculptures, landscaped gardens, and cultural events.",64625.0
-Davao Region,Region 11,Mount Apo,6.9871872,125.2707835,"The highest peak in the Philippines, located in Mindanao, known for its challenging hikes and stunning views.",4915.2
-Davao Region,Region 11,Philippine Eagle Center,7.1848752,125.4152870,"A conservation center in Davao, dedicated to the protection and breeding of the critically endangered Philippine Eagle.",25572.7
-Davao Region,Region 11,Malagos Garden Resort,7.1910964,125.4278291,"A nature resort in Davao City, featuring a chocolate museum, butterfly sanctuary, and bird feeding dome.",7806.2
-Davao Region,Region 11,Samal Island,5.5000000,120.9500000,"Known for its beautiful beaches, diving spots, and luxury resorts, located just off the coast of Davao City.",14954.6
-Davao Region,Region 11,Mt. Humiguitan Range Wildlife Sanctuary,6.7411918,126.1817505,"Located in Davao Oriental, this UNESCO World Heritage site is known for its unique flora and fauna, including the pygmy forest and various endemic species.",972.9
-SOCCSKSARGEN,Region 12,Rio Grande de Mindanao,7.0399052,124.5363057,"The second largest river in the Philippines, flowing through several provinces in Mindanao and known for its rich biodiversity and agricultural importance.",396.0
-SOCCSKSARGEN,Region 12,Lake Agco,7.0174388,125.2231410,"A thermal lake located on the slopes of Mount Apo in North Cotabato, known for its hot and cold springs, and therapeutic mud.",2594.4
-SOCCSKSARGEN,Region 12,Asik-Asik Falls,7.1014357,125.3427711,"A unique waterfall in Alamada, North Cotabato, where water gushes out of a lush green hillside.",1963.2
-SOCCSKSARGEN,Region 12,Lake Sebu,6.2259996,124.7115688,"Located in South Cotabato, this lake is famous for its serene beauty, T'boli culture, and floating tilapia farms.",6937.2
-SOCCSKSARGEN,Region 12,Bakngeb River Cave,6.1419209,124.7731691,"A subterranean river in Lake Sebu, South Cotabato, known for its scenic boat rides through the cave.",198.0
-SOCCSKSARGEN,Region 12,Marguez Hot and Cold Spring,6.6929619,124.4687433,"Located in Kidapawan City, these springs are popular for their therapeutic waters and beautiful natural surroundings.",385.4
-SOCCSKSARGEN,Region 12,Gumasa Beach,5.7869443,125.1891326,"A white sand beach in Sarangani, known for its crystal-clear waters and annual summer beach festival.",3844.6
-SOCCSKSARGEN,Region 12,Sanchez Peak,6.2573160,125.1775970,"The highest point in General Santos City, offering panoramic views of the city and Sarangani Bay.",136.3
-Caraga,Region 13,Siargao Island,9.9051382,126.0511888,"Known as the surfing capital of the Philippines, this island in Surigao del Norte is famous for its surf spots, particularly Cloud 9.",31603.2
-Caraga,Region 13,Cloud 9 Beach,9.8138144,126.1650685,"A world-renowned surfing spot on Siargao Island, attracting surfers from around the globe with its powerful waves.",13274.1
-Caraga,Region 13,Magpupungko Rock Pools,9.8768426,126.1207723,"Natural tidal pools in Siargao Island, popular for their clear waters and stunning rock formations.",6439.0
-Caraga,Region 13,Tayangban Cave Pool,9.8612950,126.0630512,"An adventure spot in Siargao, featuring a cave with a natural swimming pool inside.",2424.2
-Caraga,Region 13,Naked Island,9.7348542,126.1259166,"A small, uninhabited sandbar off the coast of Siargao Island, known for its pristine white sand.",3915.1
-Caraga,Region 13,Daku Island,11.0356020,123.6039942,"One of the three popular islands in Siargao, known for its wide beach and traditional Filipino cottages.",5231.1
-Caraga,Region 13,Guyam Island,9.7655157,126.1677539,"A small, picturesque island near Siargao, known for its white sandy beach and palm trees.",4465.0
-Caraga,Region 13,Tinuy-an Falls,8.1719863,126.2282225,"A multi-tiered waterfall in Bislig, Surigao del Sur, often called the ""Niagara Falls of the Philippines"" for its grandeur.",6312.0
-Caraga,Region 13,Enchanted River,8.4588191,126.3547751,"A deep spring river in Hinatuan, Surigao del Sur, famous for its crystal-clear blue waters and mystical appearance.",12826.3
-Caraga,Region 13,Balangay Shrine Museum,8.9540739,125.4962876,"Located in Butuan City, this museum houses ancient balangay boats, which are significant to Philippine maritime history.",565.8
-Caraga,Region 13,Agusan Marsh Wildlife Sanctuary,8.4167005,125.8790433,"A vast wetland in Agusan del Sur, home to a rich variety of wildlife, including the rare Philippine crocodile.",615.7
-Caraga,Region 13,Philippine Benevolent Missionaries Association Shrine,10.0046558,125.5809192,"A significant religious site in Agusan del Norte, reflecting the region's spiritual heritage.",216.2
-Bangsamoro Autonomous region in Muslim Mindanao,BARMM,Masjid Dimaukom,6.9277466,124.4151086,"Also known as the Pink Mosque, located in Maguindanao, this mosque is known for its distinctive pink color and cultural significance.",1123.3
-Bangsamoro Autonomous region in Muslim Mindanao,BARMM,Blue Lagoon,7.1349646,124.2964509,"A scenic and tranquil beach in Pagudpud, Ilocos Norte, known for its clear blue waters and surrounding natural beauty.",237.9
-Bangsamoro Autonomous region in Muslim Mindanao,BARMM,Malamawi Beach,6.7455453,121.9644934,"This beach is known for its white sand and clear waters, making it a hidden gem in the region.",257.6
-Bangsamoro Autonomous region in Muslim Mindanao,BARMM,Sta. Isabel Cathedral,6.7056970,121.9709412,A historic cathedral known for its beautiful architecture and religious significance.,248.4
-Bangsamoro Autonomous region in Muslim Mindanao,BARMM,Panampangan Island,5.0605527,120.0734966,An island in Tawi-Tawi known for its long white sandbars and pristine waters.,151.8
-Bangsamoro Autonomous region in Muslim Mindanao,BARMM,Mount Ragang,7.7097407,124.5346337,"Also known as Blue Mountain, located in Lanao del Sur, it is an active volcano known for its challenging hikes and scenic views.",144.0
+region,place,latitude,longitude,detail,rating
+Metro Manila,Intramuros,14.5909588,120.9746537,"The historic walled city in Manila, known for its Spanish-era landmarks, including Fort Santiago, Manila Cathedral, and San Agustin Church.",9667.9
+Metro Manila,Rizal Park,14.5806732,120.9753974,"A significant historical urban park in Manila, featuring the Rizal Monument, a tribute to national hero José Rizal.",127521
+Metro Manila,The National Museum of the Philippines,14.5869301,120.9812506,"Houses the country's national treasures, showcasing Filipino art, archaeology, and natural history.",63727.3
+Metro Manila,Manila Ocean Park,14.5793627,120.9724759,"A marine-themed park with an oceanarium, interactive animal shows, and various marine life exhibits.",66074.4
+Metro Manila,Quezon Memorial Circle,14.6514468,121.0492878,"A national park and shrine in Quezon City dedicated to President Manuel L. Quezon, with a towering monument and museum.",62198.4
+Metro Manila,Art in Island Museum,14.6224597,121.0574087,A unique interactive art museum in Quezon City where visitors can pose with 3D art installations.,11227.5
+Metro Manila,SM Mall of Asia,14.5352089,120.9815985,"One of the largest shopping malls in the Philippines, located in Pasay City, offering extensive retail, dining, and entertainment options.",259353
+Metro Manila,The Mind Museum,14.5520716,121.0455361,"A science museum in Taguig City with interactive exhibits on various scientific disciplines, including physics, biology, and astronomy.",11382.8
+Metro Manila,St. Joseph Parish Church and the Bamboo Organ,14.4810353,120.9813904,"Located in Las Piñas, famous for housing the world's only bamboo organ, a national cultural treasure.",6241.6
+Metro Manila,Ayala Museum,14.5535834,121.0232447,"An art and history museum in Makati, featuring exhibits on Filipino culture, history, and visual arts.",6219.2
+Cordillera Administrative Region,Baguio Cathedral,16.412901,120.598497,"A Neo-Gothic cathedral known for its twin spires and stained glass windows, a popular site for tourists and worshippers.",10170.6
+Cordillera Administrative Region,Burnham Park,16.4080101,120.5959849,"A central park in Baguio featuring a man-made lake, gardens, and recreation areas.",35823.3
+Cordillera Administrative Region,Wright Park,16.4151386,120.6185897,"Known for its “Pool of Pines” and horseback riding activities, a favorite among families and tourists.",10646.8
+Cordillera Administrative Region,Mansion,16.4123556,120.6214518,"The official summer residence of the President of the Philippines, famous for its ornate gate and well-manicured gardens.",6432.8
+Cordillera Administrative Region,Colors of Stobosa,16.4338458,120.5974401,"A vibrant mural on hillside homes in La Trinidad, transforming the area into a colorful attraction.",1290
+Cordillera Administrative Region,Sugong Cave,14.5962,120.3928,"A popular cave in Sagada used for burial, known for its coffins stacked at the entrance.",248.4
+Cordillera Administrative Region,Sumaguing Cave,17.0667416,120.9029633,Renowned for its impressive rock formations and challenging spelunking routes in Sagada.,2683.7
+Cordillera Administrative Region,Bontoc Museum,17.089682,120.9756636,Exhibits the culture and history of the indigenous peoples of the Cordillera region.,677.6
+Cordillera Administrative Region,Banaue Rice Terraces,16.91356,121.06184,"Famous UNESCO World Heritage site, these 2,000-year-old terraces are a marvel of ancient engineering.",5681
+Cordillera Administrative Region,Philippine War Memorial Shrine,16.7793579,121.0813701,"Honors Filipino soldiers who fought during World War II, located in Kiangan, Ifugao.",141
+Cordillera Administrative Region,Apo Whang Od,17.27611,121.1625,The oldest traditional Kalinga tattoo artist (mambabatok) known for her intricate designs and cultural significance.,779.1
+Cordillera Administrative Region,Kaparkan Falls,17.76701,120.928,"Also known as Mulawin Falls, features terraced cascades in Abra, a hidden gem in the region.",366.6
+Cordillera Administrative Region,Mines View Park,16.4197006,120.6274987,Offers a panoramic view of Benguet’s gold and copper mines and the surrounding mountains.,36859.2
+Cordillera Administrative Region,Mt. Pulag,16.5977263,120.8987919,"The third highest mountain in the Philippines, known for its “sea of clouds” and diverse flora and fauna.",1689.6
+Cordillera Administrative Region,Lussok Crystal Cave,18.3312102,121.3729788,"Located in Apayao, famous for its crystal-clear stalactites and stalagmites.",211.2
+Ilocos Region,Paoay Church,18.0614917,120.5215906,A UNESCO World Heritage site known for its distinct Earthquake Baroque architecture.,5226.4
+Ilocos Region,Malacañang of the North,18.1274031,120.5399925,A presidential museum in Ilocos Norte showcasing Marcos-era memorabilia.,2468.2
+Ilocos Region,La Paz Sand Dunes,18.2269607,120.550281,Offers thrilling 4x4 rides and sandboarding adventures in the desert landscape of Ilocos Norte.,2538
+Ilocos Region,Vigan City,17.5755487,120.3872632,A UNESCO World Heritage site famous for its well-preserved Spanish colonial and Asian architecture.,5060
+Ilocos Region,Calle Crisologo,17.568051,120.3877225,"The historic cobblestone street in Vigan lined with Spanish-era houses, shops, and cafes.",9720
+Ilocos Region,Bantay Bell Tower,17.5821518,120.3915997,"A historic watchtower in Ilocos Sur, offering views of the city and the nearby church.",1544.4
+Ilocos Region,Padre Burgos House,17.57472,120.38694,"A museum in Vigan dedicated to the life of Father José Burgos, a Filipino nationalist.",331.1
+Ilocos Region,Bangui Windmills,18.5285049,120.7036038,"Iconic wind turbines along the Bangui Bay in Ilocos Norte, providing renewable energy and scenic views.",3783.5
+Ilocos Region,Hundred Islands National Park,16.1553857,119.9792201,"A protected area with 124 islands, known for its beautiful beaches and water activities.",5299.2
+Ilocos Region,"San Juan, La Union",16.6699328,120.3385507,Famous for its surfing spots and vibrant beach culture.,1422
+Ilocos Region,Baluarte Watch Tower,16.8568137,120.3729072,"A historic watchtower in Luna, La Union, offering scenic views of the coastline and the West Philippine Sea.",860
+Cagayan Valley,Ruins of Songsong,20.356944,121.953611,"The remnants of a village in Batanes destroyed by a tidal wave in the 1950s, known for its picturesque and haunting beauty.",220
+Cagayan Valley,Honesty Coffee Shop,20.3652885,121.9150278,"A unique unmanned store in Batanes where customers pay for items on an honor system, symbolizing the trustworthiness of the locals.",531.1
+Cagayan Valley,Sabtang Island,20.3082637,121.8647857,"Known for its well-preserved Ivatan stone houses, stunning landscapes, and beautiful beaches in Batanes.",960
+Cagayan Valley,Callao Cave,17.706855,121.8181185,"Located in Cagayan, famous for its seven chambers and natural cathedral-like formation with a chapel inside.",1606
+Cagayan Valley,Cagayan River,16.9588335,121.7793945,"The longest and largest river in the Philippines, offering activities such as whitewater rafting and fishing.",270
+Cagayan Valley,Palaui Island,18.5412545,122.1370988,"A protected island in Cagayan known for its pristine beaches, rich biodiversity, and the Cape Engaño Lighthouse.",1071.6
+Cagayan Valley,Binuangan's Sea of Clouds,16.174454,121.2673533,Offers breathtaking views of rolling clouds covering the landscape in the Quirino province.,315
+Cagayan Valley,Lower Magat Eco-Tourism Park,16.6447668,121.3864421,"A recreational area in Nueva Vizcaya featuring camping, fishing, and nature trails.",860
+Cagayan Valley,Quirino Watersports Complex,16.5204613,121.5164201,A facility in Quirino province offering various water sports activities like wakeboarding and kayaking.,325.6
+Cagayan Valley,Governor's Rapids,16.3683213,121.7253721,"Known for its majestic rock formations, crystal-clear waters, and boating adventures in Quirino province.",495
+Cagayan Valley,Aglipay Caves and Composite,16.4791239,121.6175704,"A series of 38 caves in Quirino, with eight developed for caving and spelunking enthusiasts.",245.1
+Cagayan Valley,Aguinaldo Shrine and the Giant Butaka,17.1287534,121.866804,"Located in Palanan, Isabela, this site commemorates Emilio Aguinaldo's capture and features a giant wooden chair (butaka).",2709
+Central Luzon,Museo de Baler,15.7601092,121.561766,"A museum in Aurora showcasing the history and culture of Baler, including the Siege of Baler.",1444.8
+Central Luzon,Quezon Memorial Park,15.759921,121.5617407,"A park in Baler, Aurora, dedicated to President Manuel L. Quezon, featuring a statue and museum.",343.2
+Central Luzon,Ermita Hill,15.7546025,121.5805804,Offers panoramic views of Baler Bay and is historically significant as a refuge during a tsunami in the 1700s.,1284.8
+Central Luzon,Las Casas Filipinas De Acuzar,14.5991097,120.3896645,"An open-air museum and heritage park in Bataan, featuring restored Spanish-Filipino houses and buildings.",7912
+Central Luzon,Mt. Samat Shrine,14.6064588,120.509467,A national shrine in Bataan commemorating the bravery of Filipino and American soldiers during World War II.,2884.5
+Central Luzon,Mt. Arayat,15.2012911,120.7431149,"A dormant volcano in Pampanga, popular for hiking and known for its folklore associated with a mythical fairy.",841.8
+Central Luzon,Mt. Pinatubo,15.1445564,120.3490617,"Famous for its cataclysmic 1991 eruption, now a popular trekking destination with a stunning crater lake.",1743.7
+Central Luzon,Anawangin Cove,14.8810845,120.0696595,"Known for its unique landscape with pine trees and volcanic ash sand, ideal for camping and beach activities.",2691
+Central Luzon,Nagsasa Cove,14.8115064,120.0941437,"Similar to Anawangin, this cove offers serene beaches, waterfalls, and camping sites, formed by the 1991 Mt. Pinatubo eruption.",1821.6
+Central Luzon,Potipot Island,15.678023,119.9217949,"A small, picturesque island off the coast of Zambales, known for its white sand beaches and clear waters.",972
+Central Luzon,Capones Island,14.9140021,120.0198341,"Features a historic Spanish-era lighthouse and pristine beaches, ideal for day trips and snorkeling.",644
+CALABARZON,Taal Volcano,14.0106736,120.9985863,"Located in Batangas, it is one of the world's smallest active volcanoes, known for its picturesque crater lake and surrounding views.",3629.4
+CALABARZON,Fortune Island,14.0567026,120.491726,"A private island off the coast of Nasugbu, Batangas, known for its Greek-inspired ruins, clear waters, and cliff diving spots.",1909.2
+CALABARZON,Anilao,13.7616776,120.9284025,"A popular diving destination in Batangas, famous for its diverse marine life and excellent dive sites.",396
+CALABARZON,Pagsanjan Falls,14.2625628,121.4999861,"Located in Laguna, this iconic waterfall is best experienced through a thrilling canoe ride upstream.",1512
+CALABARZON,Enchanted Kingdom,14.2808875,121.0968886,"The premier theme park in the Philippines, located in Santa Rosa, Laguna, offering various rides and attractions for all ages.",15914.8
+CALABARZON,Pansol,14.1797409,121.1810881,"Known for its numerous hot spring resorts, this area in Calamba, Laguna, is a favorite weekend getaway for relaxation.",288.1
+CALABARZON,Daranak Falls,14.5445908,121.3113469,"A scenic waterfall located in Tanay, Rizal, surrounded by lush greenery, ideal for swimming and picnics.",2272.2
+CALABARZON,Angono-Binangonan Petroglyphs,14.5329971,121.1865228,"The oldest known artwork in the Philippines, these ancient rock carvings in Rizal date back to 3000 BC.",321.2
+CALABARZON,Mt. Pamitinan,14.7310193,121.1914237,"A popular hiking destination in Rizal, known for its limestone formations and panoramic views.",460.6
+,People's Park in the Sky,14.1421885,121.021862,"An unfinished presidential rest house turned park in Tagaytay, offering stunning views of Taal Lake and the surrounding area.",18868.4
+CALABARZON,Sky Ranch,14.0955301,120.9377976,"An amusement park in Tagaytay featuring a Ferris wheel, rides, and scenic views of Taal Volcano.",11151
+CALABARZON,Tanay Sea of Clouds,14.5799026,121.3312453,"A viewpoint in Tanay, Rizal, where visitors can witness a breathtaking ""sea of clouds"" phenomenon at sunrise.",681.5
+MIMAROPA,Puerto Princesa Subterranean River National Park,10.1928446,118.9265936,"A UNESCO World Heritage site in Palawan, known for its underground river and stunning cave formations.",8953.5
+MIMAROPA,Tubbataha Reef Marine Park,8.8516111,119.9344061,"A UNESCO World Heritage site, this marine park in the Sulu Sea is renowned for its extraordinary biodiversity and diving spots.",374.4
+MIMAROPA,Calauit Safari Park,12.2795271,119.8848727,"Located on Calauit Island in Palawan, this park features African wildlife and local species in a safari-like environment.",718.1
+MIMAROPA,Coron Reef,11.9984407,120.2015909,"Known for its spectacular diving sites, including WWII shipwrecks and vibrant coral reefs.",798.7
+MIMAROPA,Poctoy White Beach,13.3264434,122.1012056,"A beautiful white sand beach in Torrijos, Marinduque, popular for its clear waters and serene atmosphere.",412.8
+MIMAROPA,Tabon Caves,9.2798393,117.9814514,"A series of caves in Palawan where the Tabon Man, one of the oldest human remains in the Philippines, was discovered.",211.6
+MIMAROPA,Looc Fish Sanctuary,12.2463737,121.9826222,"Located in Looc Bay, Occidental Mindoro, this sanctuary offers snorkeling opportunities to see diverse marine life.",138
+MIMAROPA,Puerto Galera,13.5017104,120.9543353,"A popular tourist destination in Mindoro, known for its white sand beaches, diving spots, and vibrant nightlife.",6274.4
+Bicol Region,Mayon Volcano National Park,13.2558072,123.6858148,"Famous for its perfect cone shape, this active volcano in Albay is a prominent natural landmark and adventure spot.",1123.2
+Bicol Region,Cagsawa Ruins,13.1660559,123.7010503,"The remnants of an 18th-century church buried by the 1814 eruption of Mayon Volcano, now a historical park in Daraga, Albay.",6006
+Bicol Region,Shrine of the Black Nazarene,14.3317892,122.494045,"Located in Quiapo, Manila, this church is home to the revered Black Nazarene statue and is a major pilgrimage site.",8967.6
+Bicol Region,Calaguas Islands,14.4690392,122.9450671,A group of islands in Camarines Norte known for their pristine white sand beaches and crystal-clear waters.,1118.4
+Bicol Region,Peñafrancia Basilica,13.6320445,123.200016,"A major religious site in Naga City, Camarines Sur, dedicated to Our Lady of Peñafrancia, the patroness of Bicol.",2568
+Bicol Region,Caramoan Islands,13.8114251,123.8758702,"A group of islands in Camarines Sur, famous for their stunning landscapes, limestone cliffs, and being a location for the TV show ""Survivor.""",926.4
+Bicol Region,Donsol Whale Shark Interaction Center,12.9231544,123.5780039,"A major eco-tourism destination in Sorsogon, known for the opportunity to swim with whale sharks.",853.6
+Western Visayas,Boracay,11.9693065,121.9227006,"One of the world's top beach destinations, located in Aklan, famous for its white sand beaches, water sports, and vibrant nightlife.",11176.6
+Western Visayas,Willy's Rock,11.9681296,121.9185758,"An iconic rock formation with a statue of the Virgin Mary, located on Boracay's White Beach.",5071.5
+Western Visayas,Boracay Oceanarium,11.9580017,121.9306971,"Offers a marine experience with a variety of sea creatures, located on Boracay Island.",447.2
+Western Visayas,Crocodile Island,11.949939,121.9514163,"Named for its shape, this island near Boracay is popular for snorkeling and diving.",250.8
+Western Visayas,Crystal Cove,11.942169,121.9569887,"A small island near Boracay, known for its stunning coves, crystal-clear waters, and scenic hiking trails.",954.8
+Western Visayas,Magic Island,9.9340945,123.3769952,"Located near Boracay, this island is popular for cliff diving and its beautiful seascapes.",441
+Western Visayas,Negros Museum,10.6751622,122.9503269,"Located in Bacolod City, Negros Occidental, this museum showcases the history, culture, and art of the Negros Island region.",1478.4
+Western Visayas,The Ruins,10.7092082,122.9826571,"The remains of a grand mansion in Talisay City, Negros Occidental, often referred to as the ""Taj Mahal of Negros"" for its romantic history.",12015
+Western Visayas,San Sebastian Cathedral,10.670328,122.9471513,"An iconic cathedral in Bacolod City, known for its Gothic-inspired architecture and religious significance.",1329.4
+Western Visayas,Miagao Church,10.6420667,122.2353868,"A UNESCO World Heritage site in Iloilo, famous for its unique Baroque-Romanesque architecture and intricate facade.",2509.8
+Western Visayas,Alubihod Beaches,10.5336746,122.516974,"Located in Guimaras, these beaches are known for their white sand, clear waters, and tranquil environment, perfect for relaxation.",431.2
+Central Visayas,Chocolate Hills,9.7982587,124.1684323,"Iconic geological formations in Bohol, consisting of over a thousand hills that turn brown in the dry season, resembling chocolate mounds.",7083
+Central Visayas,Loboc River,9.6463322,124.0249567,"Famous for its river cruises, where visitors can enjoy a meal on a floating restaurant while being serenaded by local musicians.",4017.2
+Central Visayas,Philippine Tarsier Sanctuary,9.6878643,123.9522353,"Located in Bohol, this sanctuary is dedicated to the conservation of the Philippine tarsier, one of the world's smallest primates.",3996
+Central Visayas,Panglao Islands,9.5987262,123.8028697,"Known for their white sandy beaches, crystal-clear waters, and vibrant marine life, making it a popular destination for diving and snorkeling.",3040.9
+Central Visayas,Cabilao Islands,9.881218,123.7726473,"A small island off the coast of Bohol, known for its excellent diving spots and rich marine biodiversity.",238.5
+Central Visayas,Balicasag Islands,9.517201,123.6843927,"Another top diving destination in Bohol, famous for its coral reefs and diverse marine life.",1001.1
+Central Visayas,Magellan's Cross,10.293555,123.901931,"A historical landmark in Cebu City, said to contain the remnants of the original cross planted by Ferdinand Magellan upon his arrival in the Philippines.",15538.2
+Central Visayas,Santo Niño Basilica,10.2943995,123.9018683,"Also known as Basilica Minore del Santo Niño, this basilica in Cebu City is one of the oldest and most revered Catholic churches in the Philippines.",1959.6
+Central Visayas,Oslob,9.5204466,123.4335205,"Famous for whale shark watching, where visitors can swim alongside these gentle giants.",1812.4
+Central Visayas,Cebu Safari and Adventure Park,10.5888394,123.9610649,"A large wildlife and adventure park in Cebu, featuring a variety of animal species and outdoor activities.",670.5
+Central Visayas,Dumaguete Cathedral,9.3062397,123.3065834,"Also known as the Cathedral of St. Catherine of Alexandria, this church in Dumaguete City is notable for its historical and cultural significance.",1795.4
+Central Visayas,Apo Island,9.0778663,123.2715177,"A marine sanctuary near Dumaguete, known for its rich marine biodiversity and excellent diving and snorkeling sites.",2143.6
+Central Visayas,Cambugahay Falls,9.1400762,123.6267445,"A multi-tiered waterfall in Siquijor, popular for its clear turquoise waters and rope swings.",396
+Central Visayas,Cantabon Cave,9.1877428,123.5639922,"An extensive cave system in Siquijor, offering spelunking adventures through its narrow passages and underground streams.",255.2
+Central Visayas,Tulapos Marine Sanctuary,9.2848652,123.6416681,"Located in Siquijor, this marine sanctuary is known for its healthy coral reefs and diverse marine life, ideal for snorkeling.",563.2
+Central Visayas,Cabagnaw Cave Pool,9.7334851,124.5702909,"A unique natural swimming pool inside a cave in Siquijor, known for its clear blue waters.",5282.8
+Central Visayas,Bantayan Island,11.2185608,123.7285283,"A beautiful island in Cebu, known for its white sandy beaches, crystal-clear waters, and laid-back atmosphere.",550.2
+Central Visayas,Colon Street,10.2959671,123.8976668,"The oldest street in the Philippines, located in Cebu City, known for its historical significance and bustling commercial activities.",155.1
+Eastern Visayas,Homonhon Island,10.75576,125.6899624,"The site where Ferdinand Magellan first landed in the Philippines, located in Eastern Samar, rich in historical significance.",216.2
+Eastern Visayas,Ando Islands,11.6414624,125.4824633,"Part of the Guiuan Islands in Eastern Samar, known for their pristine beaches and diving spots.",130.5
+Eastern Visayas,Divinubo Islands,11.5971032,125.5008332,"Located off the coast of Borongan, Eastern Samar, known for its clear waters, white sandy beaches, and vibrant marine life.",4099.5
+Eastern Visayas,San Juanico Bridge,11.302576,124.9718908,"The longest bridge in the Philippines, connecting the islands of Samar and Leyte, known for its picturesque views.",2580.3
+Eastern Visayas,Kalanggaman Island,11.1144289,124.2506115,"A pristine island in Leyte known for its long sandbars, clear waters, and excellent diving spots.",460.6
+Eastern Visayas,Sambawan Island,11.7658516,124.2636759,"A stunning island in Biliran, known for its scenic views, white sand beaches, and clear blue waters.",92
+Eastern Visayas,Cambaro Cave,10.0835507,124.9470849,"Located in Almeria, Biliran, this cave is known for its impressive stalactites and stalagmites.",153
+Eastern Visayas,Sila Island Pink Beach,12.359537,124.0328237,"Known for its unique pink sand, this beach in Northern Samar offers a serene and picturesque environment.",1012.8
+Eastern Visayas,Sohoton Caves,11.3577054,125.1672997,"A natural wonder in Basey, Samar, featuring impressive cave formations, underground rivers, and natural rock arches.",312.8
+Eastern Visayas,Natural Bridge,11.3648129,125.1633367,"Also known as the Sohoton Natural Bridge, located in Samar, this natural limestone bridge offers breathtaking views of the surrounding area.",985.5
+Zamboanga Peninsula,The Rizal Shrine Park,8.6906595,123.4168721,"Located in Dapitan, Zamboanga del Norte, this park commemorates the national hero Dr. Jose Rizal's exile.",101.2
+Zamboanga Peninsula,P'gsalabuk Circle,8.524918,123.328484,"A cultural landmark in Dipolog City, Zamboanga del Norte, showcasing the region's diverse cultural heritage.",1302.4
+Zamboanga Peninsula,Gloria's Fantasyland,8.6477271,123.4177323,"An amusement park in Dapitan City, offering various rides and entertainment options for all ages.",166.5
+Zamboanga Peninsula,Pulacan Falls,7.9156507,123.4889097,"A picturesque waterfall located in Labangan, Zamboanga del Sur, popular for its scenic beauty and tranquil environment.",283.8
+Zamboanga Peninsula,Rotunda Obelisk,8.2311697,124.2346478,"A historic landmark in Malaybalay City, Bukidnon, symbolizing the city's rich cultural heritage.",2258.6
+Northern Mindanao,Dahilayan Mount Capistrano,8.0278185,125.166712,"Known for its breathtaking views and outdoor activities, including zip-lining and ATV rides, located in Manolo Fortich, Bukidnon.",248.4
+Northern Mindanao,Forest Park Resort,8.2042195,124.8570236,"An adventure and nature park in Dahilayan, Bukidnon, offering various activities such as zip-lining, ATV rides, and horseback riding.",1472
+Northern Mindanao,Abbey of the Transfiguration,8.1150547,125.1361079,"A Benedictine monastery in Malaybalay City, Bukidnon, known for its distinctive pyramid-shaped church and serene surroundings.",296.1
+Northern Mindanao,Mt. Timpoong and Mt. Hibok-Hibok Range Natural Monument,9.1994295,124.6759878,"Located in Camiguin, these mountains offer challenging hikes and stunning views.",225.6
+Northern Mindanao,Sunken Cemetery,9.2068031,124.6327702,"An eerie yet fascinating underwater cemetery in Camiguin, marked by a large cross visible above the water.",3086.6
+Northern Mindanao,Cagayan de Oro River Rapids,8.3054066,124.5965685,"Famous for whitewater rafting adventures, this river in Cagayan de Oro offers thrilling experiences for adventure seekers.",2568
+Northern Mindanao,Gardens of Malasag Mountain,8.4699669,124.7003524,"An eco-tourism village in Cagayan de Oro, featuring botanical gardens, traditional houses, and cultural exhibits.",1711.2
+Northern Mindanao,Maria Cristina Falls,8.1831064,124.1950609,"A majestic waterfall in Iligan City, Lanao del Norte, often referred to as the ""twin falls"" and a major source of hydroelectric power.",18436.8
+Northern Mindanao,Balinga Wetland Park,,,"A wetland park in Lanao del Norte, known for its rich biodiversity and bird-watching opportunities.",761.4
+Northern Mindanao,Dolphin Island,8.2907733,123.8709784,"Located off the coast of Misamis Occidental, this island is known for dolphin watching and marine conservation efforts.",1168.4
+Davao Region,People's Park,7.070929,125.6087926,"A popular public park in Davao City, known for its sculptures, landscaped gardens, and cultural events.",64625
+Davao Region,Mount Apo,6.9871872,125.2707835,"The highest peak in the Philippines, located in Mindanao, known for its challenging hikes and stunning views.",4915.2
+Davao Region,Philippine Eagle Center,7.1848752,125.415287,"A conservation center in Davao, dedicated to the protection and breeding of the critically endangered Philippine Eagle.",25572.7
+Davao Region,Malagos Garden Resort,7.1910964,125.4278291,"A nature resort in Davao City, featuring a chocolate museum, butterfly sanctuary, and bird feeding dome.",7806.2
+Davao Region,Samal Island,5.5,120.95,"Known for its beautiful beaches, diving spots, and luxury resorts, located just off the coast of Davao City.",14954.6
+Davao Region,Mt. Humiguitan Range Wildlife Sanctuary,6.7411918,126.1817505,"Located in Davao Oriental, this UNESCO World Heritage site is known for its unique flora and fauna, including the pygmy forest and various endemic species.",972.9
+SOCCSKSARGEN,Rio Grande de Mindanao,7.0399052,124.5363057,"The second largest river in the Philippines, flowing through several provinces in Mindanao and known for its rich biodiversity and agricultural importance.",396
+SOCCSKSARGEN,Lake Agco,7.0174388,125.223141,"A thermal lake located on the slopes of Mount Apo in North Cotabato, known for its hot and cold springs, and therapeutic mud.",2594.4
+SOCCSKSARGEN,Asik-Asik Falls,7.1014357,125.3427711,"A unique waterfall in Alamada, North Cotabato, where water gushes out of a lush green hillside.",1963.2
+SOCCSKSARGEN,Lake Sebu,6.2259996,124.7115688,"Located in South Cotabato, this lake is famous for its serene beauty, T'boli culture, and floating tilapia farms.",6937.2
+SOCCSKSARGEN,Bakngeb River Cave,6.1419209,124.7731691,"A subterranean river in Lake Sebu, South Cotabato, known for its scenic boat rides through the cave.",198
+SOCCSKSARGEN,Marguez Hot and Cold Spring,6.6929619,124.4687433,"Located in Kidapawan City, these springs are popular for their therapeutic waters and beautiful natural surroundings.",385.4
+SOCCSKSARGEN,Gumasa Beach,5.7869443,125.1891326,"A white sand beach in Sarangani, known for its crystal-clear waters and annual summer beach festival.",3844.6
+SOCCSKSARGEN,Sanchez Peak,6.257316,125.177597,"The highest point in General Santos City, offering panoramic views of the city and Sarangani Bay.",136.3
+Caraga,Siargao Island,9.9051382,126.0511888,"Known as the surfing capital of the Philippines, this island in Surigao del Norte is famous for its surf spots, particularly Cloud 9.",31603.2
+Caraga,Cloud 9 Beach,9.8138144,126.1650685,"A world-renowned surfing spot on Siargao Island, attracting surfers from around the globe with its powerful waves.",13274.1
+Caraga,Magpupungko Rock Pools,9.8768426,126.1207723,"Natural tidal pools in Siargao Island, popular for their clear waters and stunning rock formations.",6439
+Caraga,Tayangban Cave Pool,9.861295,126.0630512,"An adventure spot in Siargao, featuring a cave with a natural swimming pool inside.",2424.2
+Caraga,Naked Island,9.7348542,126.1259166,"A small, uninhabited sandbar off the coast of Siargao Island, known for its pristine white sand.",3915.1
+Caraga,Daku Island,11.035602,123.6039942,"One of the three popular islands in Siargao, known for its wide beach and traditional Filipino cottages.",5231.1
+Caraga,Guyam Island,9.7655157,126.1677539,"A small, picturesque island near Siargao, known for its white sandy beach and palm trees.",4465
+Caraga,Tinuy-an Falls,8.1719863,126.2282225,"A multi-tiered waterfall in Bislig, Surigao del Sur, often called the ""Niagara Falls of the Philippines"" for its grandeur.",6312
+Caraga,Enchanted River,8.4588191,126.3547751,"A deep spring river in Hinatuan, Surigao del Sur, famous for its crystal-clear blue waters and mystical appearance.",12826.3
+Caraga,Balangay Shrine Museum,8.9540739,125.4962876,"Located in Butuan City, this museum houses ancient balangay boats, which are significant to Philippine maritime history.",565.8
+Caraga,Agusan Marsh Wildlife Sanctuary,8.4167005,125.8790433,"A vast wetland in Agusan del Sur, home to a rich variety of wildlife, including the rare Philippine crocodile.",615.7
+Caraga,Philippine Benevolent Missionaries Association Shrine,10.0046558,125.5809192,"A significant religious site in Agusan del Norte, reflecting the region's spiritual heritage.",216.2
+Bangsamoro Autonomous region in Muslim Mindanao,Masjid Dimaukom,6.9277466,124.4151086,"Also known as the Pink Mosque, located in Maguindanao, this mosque is known for its distinctive pink color and cultural significance.",1123.3
+Bangsamoro Autonomous region in Muslim Mindanao,Blue Lagoon,7.1349646,124.2964509,"A scenic and tranquil beach in Pagudpud, Ilocos Norte, known for its clear blue waters and surrounding natural beauty.",237.9
+Bangsamoro Autonomous region in Muslim Mindanao,Malamawi Beach,6.7455453,121.9644934,"This beach is known for its white sand and clear waters, making it a hidden gem in the region.",257.6
+Bangsamoro Autonomous region in Muslim Mindanao,Sta. Isabel Cathedral,6.705697,121.9709412,A historic cathedral known for its beautiful architecture and religious significance.,248.4
+Bangsamoro Autonomous region in Muslim Mindanao,Panampangan Island,5.0605527,120.0734966,An island in Tawi-Tawi known for its long white sandbars and pristine waters.,151.8
+Bangsamoro Autonomous region in Muslim Mindanao,Mount Ragang,7.7097407,124.5346337,"Also known as Blue Mountain, located in Lanao del Sur, it is an active volcano known for its challenging hikes and scenic views.",144
